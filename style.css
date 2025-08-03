@@ -1,0 +1,7 @@
+.nav_link {
+    color: black;
+}
+.nav_link--active {
+    color: purple;
+    font-weight: bold;
+}
